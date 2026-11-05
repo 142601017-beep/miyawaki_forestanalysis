@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=Biomass Estimator
-Comment=Monte Carlo Biomass Uncertainty Estimator
-Exec=/home/ridhwiman/Documents/VSSC++/x/BiomassEstimator
-Icon=utilities-system-monitor
-Terminal=false
-Categories=Science;Education;
